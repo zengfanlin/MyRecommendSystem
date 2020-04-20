@@ -15,6 +15,10 @@
         <module>DataLoader</module>
         <module>StatisticsRecommender</module>
         <module>OfflineRecommender</module>
+        <module>OnlineRecommender</module>
+        <module>KafkaStreaming</module>
+        <module>ContentRecommender</module>
+        <module>ItemCFRecommender</module>
     </modules>
 
     <dependencyManagement>
